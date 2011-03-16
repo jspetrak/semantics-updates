@@ -8,7 +8,11 @@
 </head>
 <body>
 
+<?php
 
+	require_once('../_setup.php');
+
+?>
 
 </body>
 </html>
