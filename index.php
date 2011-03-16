@@ -33,7 +33,7 @@ ORDER BY DESC(?date)
 	if (sizeof($data['result']['rows']) > 0) {
 		echo('<ul>');
 		foreach($data['result']['rows'] as $row) {
-			echo("<li>{$row['date']}: <a href=\"{$row['link']}\">{$row['title']}</li>\n");
+			echo("<li>{$row['date']}: <a href=\"{$row['link']}\">{$row['title']}</a></li>\n");
 		}
 		echo('</ul>');
 	}
