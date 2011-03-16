@@ -3,3 +3,16 @@ Install
 ARC2 library is required for the application. Please, checkout from GitHub and deploy into /_arc/ directory.
 
 * https://github.com/semsol/arc2
+
+Data Vocabulary
+
+We are using standard vocabularies like:
+
+* RDF
+* FOAF
+* Dublin Core
+* RSS 1.0
+
+And we have proposed such new terms:
+
+* http://open.vocab.org/docs/aggregates
