@@ -39,5 +39,8 @@ ORDER BY DESC(?date)
 	}
 
 ?>
+
+<p>Developed in <a href="http://semanti-cs.org/">Semanti–CS initiative</a>.</p>
+
 </body>
 </html>
